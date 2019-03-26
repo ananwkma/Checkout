@@ -82,9 +82,10 @@ hr {
   border-style: solid;
   border-radius: 7px;
   font-family: sans-serif;
-  width: 90px;
+  width: 130px;
   text-align: center;
   background-color: #ffffff;
+  margin-top: 40px;
   position: absolute;
 }
 
