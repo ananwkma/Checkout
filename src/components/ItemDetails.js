@@ -7,7 +7,7 @@ class ItemDetails extends React.Component {
     return (
       <div className="ItemDetailsContainer">
         <img className="ImgContainer" src={img} />
-        <div>
+        <div className="TextContainer">
           <div className="title">{item_name}</div>
           <div className="price">${price}</div>
           <div className="quantity">Qty:{quantity}</div>
