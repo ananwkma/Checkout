@@ -1,2 +1,0 @@
-# Checkout
-Created with CodeSandbox
